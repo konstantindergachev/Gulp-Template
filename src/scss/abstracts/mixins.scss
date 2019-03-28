@@ -1,0 +1,9 @@
+@mixin deskfirst($breakpoint) {
+  @media only screen and (max-width: $breakpoint + "px") {
+      @content;
+  }
+}
+
+@function rem($px){
+  @return $px / 16px + 0rem;
+}
