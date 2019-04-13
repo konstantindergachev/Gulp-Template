@@ -5,7 +5,7 @@
 
 ```bash
 # Clone repo
-clone git@github.com:konstantindergachev/weather-app.git
+git clone git@github.com:konstantindergachev/weather-app.git
 
 # Install dependencies
 yarn install -i
