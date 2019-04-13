@@ -5,7 +5,7 @@
 
 ```bash
 # Clone repo
-git clone git@github.com:konstantindergachev/weather-app.git
+git clone git@github.com:konstantindergachev/gulp-template.git
 
 # Install dependencies
 yarn install -i
